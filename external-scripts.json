@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-gh-issues",
-  "hubot-gh-token"
+  "hubot-gh-token",
+  "hubot-github-scrum"
 ]
